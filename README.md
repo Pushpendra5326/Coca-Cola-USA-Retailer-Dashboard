@@ -1,6 +1,6 @@
 **Objective :**
 
-Cocola USA Retailer wants to create an annual sales report for 2023. So that, They can understand their customers and grow more sales in up coming years.
+Coca-cola USA Retailer wants to create an annual sales report for 2023. So that, They can understand their customers and grow more sales in up coming years.
 
 **Sample Insights:**
 

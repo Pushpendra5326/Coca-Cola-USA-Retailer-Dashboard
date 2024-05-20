@@ -13,4 +13,11 @@ Cocola USA Retailer wants to create an annual sales report for 2023. So that, Th
 
 Increase the sales in Northeast and west region of brand Cocacola and Dasani water by providing more discount on FizzyCo and BevCo retailer in 3rd Qtr of each Year.
 
+
+
+**Please find Dshabord**
+
 ![image](https://github.com/Pushpendra5326/Coca-Cola-USA-Retailer-Dashboard/assets/145826060/6e54c78c-91b4-4874-9f00-f64678fd24f5)
+
+
+_**Thanks for visiting...**_
